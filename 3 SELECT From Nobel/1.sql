@@ -1,0 +1,4 @@
+SELECT *
+FROM nobel
+WHERE yr = 1950
+;
